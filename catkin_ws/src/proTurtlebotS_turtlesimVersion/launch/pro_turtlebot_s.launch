@@ -1,0 +1,5 @@
+<launch>
+    <node pkg= "turtlesim" type="turtlesim_node" name="turtle_GUI"/>
+    <node pkg= "turtlesim" type="turtle_teleop_key" name="turtle_key"/>
+    <node pkg= "pro_turtlebot_s" type="level_three_loc_mon" name="level_three_loc_mon" output= "screen"/>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/ros/catkin_ws/install
+
+Name: exp7_524
+Description: Description of exp7_524
+Version: 0.0.0
+Cflags: -I/home/ros/catkin_ws/install/include
+Libs: -L/home/ros/catkin_ws/install/lib 
+Requires: 

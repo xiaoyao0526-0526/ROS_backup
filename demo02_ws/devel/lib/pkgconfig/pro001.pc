@@ -1,0 +1,8 @@
+prefix=/home/yss/demo02_ws/devel
+
+Name: pro001
+Description: Description of pro001
+Version: 0.1.0
+Cflags: -I/home/yss/demo02_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs nav_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/yss/demo02_ws/install
+
+Name: pro_turtlebot_s
+Description: Description of pro_turtlebot_s
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs nav_msgs message_runtime

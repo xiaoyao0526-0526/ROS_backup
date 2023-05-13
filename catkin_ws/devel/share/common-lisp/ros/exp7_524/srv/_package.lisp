@@ -1,0 +1,10 @@
+(cl:defpackage exp7_524-srv
+  (:use )
+  (:export
+   "ADDTHREEINTS"
+   "<ADDTHREEINTS-REQUEST>"
+   "ADDTHREEINTS-REQUEST"
+   "<ADDTHREEINTS-RESPONSE>"
+   "ADDTHREEINTS-RESPONSE"
+  ))
+

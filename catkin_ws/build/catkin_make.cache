@@ -1,0 +1,2 @@
+beginner_tutorials:exp6_524:myPKG:proTurtlebotS_turtlesimVersion
+-DCATKIN_DEVEL_PREFIX=/home/ros/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/catkin_ws/install -G Unix Makefiles

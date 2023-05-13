@@ -1,0 +1,2 @@
+/home/ros/524yss/build/CMakeFiles/firstcpp.dir
+/home/ros/524yss/build/CMakeFiles/plygeneration.dir
